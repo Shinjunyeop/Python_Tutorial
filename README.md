@@ -185,7 +185,8 @@
     print(re.findall(pattern, "This is a test sentence"))
     
     ```
-    
+    ![image](https://github.com/Shinjunyeop/Python_Tutorial/assets/159976500/404cf0d7-fd48-47d0-92b9-05877e4f47b4)
+
 8. **라이브러리와 외부 패키지**
     - 파이썬은 다양한 라이브러리와 외부 패키지를 사용하여 기능을 확장할 수 있습니다. 예를 들면, NumPy, Pandas, Matplotlib 등이 있습니다.
 
