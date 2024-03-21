@@ -185,9 +185,9 @@
     print(re.findall(pattern, "This is a test sentence"))
     
     ```
-    ![image](https://github.com/Shinjunyeop/Python_Tutorial/assets/159976500/404cf0d7-fd48-47d0-92b9-05877e4f47b4)
 
 8. **라이브러리와 외부 패키지**
     - 파이썬은 다양한 라이브러리와 외부 패키지를 사용하여 기능을 확장할 수 있습니다. 예를 들면, NumPy, Pandas, Matplotlib 등이 있습니다.
 
 위에 제시된 내용은 파이썬의 주요 기능 중 일부에 불과합니다. 더 많은 기능과 세부적인 내용을 알고 싶다면 파이썬 공식 문서 또는 다양한 온라인 자료를 참고하는 것이 좋습니다.
+![image](https://github.com/Shinjunyeop/Python_Tutorial/assets/159976500/2b7d1e96-c8e5-47ad-872b-1388015dea1a)
